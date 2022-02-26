@@ -1,0 +1,1515 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ptōchopharmakon, seu Medicamen miseris, or Pauperum pyxidicula salutifera. Help for the poor collected for the benefit of such as are not able to make use of physitians and chiurgians, or live remote from them. Also an appendix concerning letting blood in the smallpox. By Robert Pemel, physitian of Crane-brook in Kent.</title>
+            <author>Pemell, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70776</idno>
+            <idno type="STC">Wing P1132A</idno>
+            <idno type="STC">ESTC R221420</idno>
+            <idno type="EEBO-CITATION">99832728</idno>
+            <idno type="PROQUEST">99832728</idno>
+            <idno type="VID">37202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37202)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2149:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ptōchopharmakon, seu Medicamen miseris, or Pauperum pyxidicula salutifera. Help for the poor collected for the benefit of such as are not able to make use of physitians and chiurgians, or live remote from them. Also an appendix concerning letting blood in the smallpox. By Robert Pemel, physitian of Crane-brook in Kent.</title>
+                  <author>Pemell, Robert.</author>
+               </titleStmt>
+               <extent>[6], 70, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.L. for Philemon Stephens, at the Gilden-Lion, in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first word of title is in Greek characters.</note>
+                  <note>Includes table.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine, Rural --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37202:1" rendition="simple:additions"/>
+            <pb facs="tcp:37202:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, SEU MEDICAMEN MISERIS, OR <hi>Pauperum pyxidicula ſalutifera.</hi>
+            </p>
+            <p>Help for the Poor, Collected for the benefit of ſuch as are not able to make uſe of Phyſitians and Chirurgians, or live remote from them.</p>
+            <p>Alſo an Appendix concerning let<g ref="char:EOLhyphen"/>ting blood in the Small Pox.</p>
+            <p>By ROBERT PEMEL, Phyſitian of <hi>Crane-brook</hi> in <hi>Kent.</hi>
+            </p>
+            <q>Si verò occaſio ſerendae opis ſe obtulerit, &amp; peregrino, &amp; egendo, maximè talibus, opituleris. <bibl>
+                  <hi>Hippoc. praecept. Fol. 22.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. L.</hi> for <hi>Philemon Stephens,</hi> at the <hi>Gilded-Lion,</hi> in <hi>Pauls Church-yard,</hi> 1650</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37202:2"/>
+            <pb facs="tcp:37202:2"/>
+            <head>To the Reader, and more ſpecially to my Friends and Neighbours of <hi>Crane-brook</hi> in Kent.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Oving friends, and Neighbours, and Gen<g ref="char:EOLhyphen"/>tle Reader, whoſo<g ref="char:EOLhyphen"/>ever thou hap to be. It's every mans duty to be doing good to others, or to re<g ref="char:EOLhyphen"/>ceive good from others; for ſurely no man was born for himſelf onely; yet ſo it falls out that most men are ſelf-ſeekers, in theſe dayes. I have here, for the benefit of the poorer ſort of people, gathered ſome choice and eaſie medicines; most of them may ſoon be made, eaſily obtained, and that at any time of the year: yet I would deſire ſuch as are willing to make uſe of the medicines in this
+<pb facs="tcp:37202:3"/>
+Treatiſe, to take the beſt time for them, eſpecially for oyntments and plaſters, that are to be made with green herbes, that ſuch be made in the ſummer, when there is moſt vir<g ref="char:EOLhyphen"/>tue in them. The chief and main inducing cauſe hereof was theſe hard times, wherein the poor have ſcarce bread to eat, much leſs money to go to the Phyſitian or Chirurgion; and though plenty may come again, (which I heartily wiſh, and pray for) yet I hope this collection of mine may be uſeful to many then, as well as now. Thus deſiring a favourable acceptation of what I have done herein. I take my leave.</p>
+            <closer>
+               <signed>Yours in any Chriſtian ſervice. ROBERT PEMEL.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:37202:3"/>
+            <head>Vpon this help for the poor, col<g ref="char:EOLhyphen"/>lected by <hi>Robert Pemel</hi> Phyſitian.</head>
+            <l>
+               <seg rend="decorInit">W</seg>Hat Herbs, Flowers, Min'rals, Trees the earth doth bear,</l>
+            <l>For man his uſe and help, prepared are:</l>
+            <l>And God the bounteous Maker of them all;</l>
+            <l>Who firſt them planted on earths maſſy Ball,</l>
+            <l>And with their various Virtues them endew'd,</l>
+            <l>Intended them unto poor peoples good;</l>
+            <l>As well as of rich Lords, and Ladies, Gent.</l>
+            <l>Poor men in pain meet help and eaſe do want;</l>
+            <l>But Oh the love of gold and ſordid gain,</l>
+            <l>That doth the Lords rich bounty much reſtrain!</l>
+            <l>Let a rich man lie ſick, or pained be,</l>
+            <l>Upon his leaſt requeſt, to him doth flee</l>
+            <l>The Phyſick Doctour, or the Surgeon,</l>
+            <l>Their Soveraigne Medicines them to trie upon;</l>
+            <l>And him to cure, the love of large reward,</l>
+            <l>Which there he hopes, makes him the rich regard:</l>
+            <l>But let the poor ſick or diſeaſed lye,</l>
+            <l>Let him ſend for them, let him call and cry;</l>
+            <l>They are as deaf as Baal to his Prieſts;</l>
+            <l>He hath no gold to greaſe them in their fiſts.</l>
+            <l>Loe here a pitiful Samaritan,</l>
+            <l>That taking care for the poor needy man,</l>
+            <l>Doth him provide of eaſie medicines,</l>
+            <l>
+               <pb facs="tcp:37202:4"/>Which nor are coſtly, nor are hard to finde;</l>
+            <l>So his own Doctour in need he may be,</l>
+            <l>Without the care of any Doctours f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</l>
+            <l>Let then, good friends, this Authour have your praiſe,</l>
+            <l>And thanks for theſe ſo helpful his eſſayes:</l>
+            <l>Wherein conſpires much skilful induſtry;</l>
+            <l>With more of love and Chriſtian charity.</l>
+            <closer>
+               <signed>J. E.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="ailment">
+            <pb n="1" facs="tcp:37202:4"/>
+            <head>Againſt Burning and Scalding.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Ake of the whites of eggs two oun<g ref="char:EOLhyphen"/>ces, oyl of Roſes (or for want thereof, Sallet-oyl) one ounce, beat them well together. Dip fine rags in the ſame, and apply them to the burn or Scald. This cures ſpeedily, ſafely, and exactly, by taking away the heat, eaſing pain, and leaves no ſcar behinde.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take one ounce of oyl of Roſes, of ſweet cream two ounces, of honey half an ounce, mingle them together and apply it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of freſh and new Butter out of the churn, and not at all ſalted,
+<pb n="2" facs="tcp:37202:5"/>
+what quantitie you will; boyl it with a ſufficient quantity of Gooſe-dung, then ſtrain it into fair and ſweet Spring-water. Strain it thus, five or ſix times, (for the oftener it is done, the more virtue it hath) then laſt of all, ſtrain it into Roſe-water, and waſh it often therewith; put it up, and keep it for your uſe. This <hi>Stocherus</hi> com<g ref="char:EOLhyphen"/>mends, and ſaith he had experience of it in himſelf, in the year 1509. <hi>Praxis Stocherj. fol.</hi> 344.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take quick Lime and waſh it nine or ten times in fair water; let it ſtand in every water, two or three hours; then pour off the water and put more to it. Take the waſhed Lime (being ſtrained from the water) and add to it oyl of Roſes and the whites of eggs; make an oyntment and keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Lime and put it into fair wa<g ref="char:EOLhyphen"/>ter, and let it ſtand therein four or five dayes, changing the water every day; then dry it, and make it into fine pow<g ref="char:EOLhyphen"/>der; mixe it with a ſufficient quantity
+<pb n="3" facs="tcp:37202:5"/>
+of Lineſeed-oyl, and keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of old Hogs-greaſe what quan<g ref="char:EOLhyphen"/>tity you will, ſtrain it into cold water, and add to it a ſufficient quantity of the whites of eggs, beat them well to<g ref="char:EOLhyphen"/>gether, then apply them to the burn or ſcald on linnen.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Ivy-leaves (ſuch as grow neer the ground) Marigold-leaves, Wood<g ref="char:EOLhyphen"/>bind-leaves, and Plantaine, of each a good handful, cut them ſmall, and bruiſe them; then boyl them in ſix or eight ounces of Hogs-greaſe, ſtrain them, and keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take two handfuls of groundſel, as much of Houſ-leek, of Barrowes-greaſe ſix ounces, ſtamp them together, and put thereto two handfuls of new Sheeps dung; ſtamp them altogether, and boyl them gently at the fire, ſtrain them, and keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take four ounces of Gooſe-dung, of one nights making, and of freſh
+<pb n="4" facs="tcp:37202:6"/>
+Butter, or Sheeps-ſuet, three or four ounces; Fry them gently in a pan to<g ref="char:EOLhyphen"/>gether, ſtrain it, and wet clouts in the ſame, apply it to burning or ſcalding.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of the inward bark of the El<g ref="char:EOLhyphen"/>der four ounces, of Sheeps ſuet half a pound, of Sheeps-dung ſix ounces. Fry them together, and being ſtrained, keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of the juice of Houſleek, Plan<g ref="char:EOLhyphen"/>taine, Comfrey, (the leſſer of each) two ounces, of Sheeps-dung one ounce, Sheeps-ſuet half a pound. Boyl them together with a gentle fire, then ſtrain and reſerve it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of Mulleyn, Plantain, of each one handful, of Burnet half a handful of Ale-hoof four handfuls. Bruiſe them groſly together, let them ſtand eight dayes; then add to them of Sheeps-dung and wax a ſufficient quantiy, then ſtrain it and keep it to uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of the hearb Prunella two hand<g ref="char:EOLhyphen"/>fuls; beat it with three or four ounces
+<pb n="5" facs="tcp:37202:6"/>
+of freſh Butter; let them ſtand toge<g ref="char:EOLhyphen"/>ther three or four dayes, then boyl them with a gentle fire, ſtrain it and keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take oyl of Roſes two ounces, the yolkes of ſix eggs, beat them very well together, and add thereto fourty grains of Saffron in powder; ſpread it on linnen and lay it upon the burned parts.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of Night-ſhade-water, and Plantain-water, yolks of eggs, oyl of Roſes, and Virgins wax, of each a like quantity. Firſt melt the oyl and wax together, then put in the waters, and laſt of all the yolks of eggs by degrees, being firſt well beaten toge<g ref="char:EOLhyphen"/>ther. Keep it to uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a quart of ſweet cream, a handful of Fern-roots, waſh and clean the roots, cut them in ſmall pieces, then boyl them in the Cream till it be a kinde of jelly. Spread it on linnen and lay it to burning or ſcalding.</p>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <p>
+                  <pb n="6" facs="tcp:37202:7"/>Take of Linſeed-oyl four ounces, of new wax two ounces, of the whites of eggs a ſufficient quantity, mix them to<g ref="char:EOLhyphen"/>gether on the fire, and keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take four ounces of freſh Butter, then pour it (being melted) into cold water, and waſh it til it be very white, pour away the water, and keep it for your uſe.</p>
+               <p>If the skin be not broken, then uſe the juyce of onions with ſalt in fine powder.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take black Sope and Honey of each a like quantity, mixe them together.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the juyce of Elder-berries and mix it with the white of an egg. Ap<g ref="char:EOLhyphen"/>ply it.</p>
+               <p>Take heed you uſe not the former of Salt and Sope where the skin is off or broken, for then it will cauſe great pain.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <pb n="7" facs="tcp:37202:7"/>
+            <head>Againſt burning with Gunpowder.</head>
+            <p>TAke of the juyce of Houſleek four ounces, of the whites of three or four eggs new laid, beat them wel toge<g ref="char:EOLhyphen"/>ther till they froth, then mix the juyce with it. Dip linnen cloths in the ſame, and lay it warm to the burned part.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the juyce of Onions two ounces, of Linſeed-oyl one ounce, mix them together, and apply it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of black Sope half a pound, of the beſt Honey four ounces, of Salt in powder half an ounce: mix them together. This muſt not be uſed where the skin is off.</p>
+               <div type="site_of_ailment">
+                  <head>For the ſame, if the burning be about the eyes or the eye-lids.</head>
+                  <p>Take of red Roſe-water four ounces, of womans milk two ounces, of the whites of two eggs, of white Sugar-Candy in fine powder one ounce and a half, mingle them together, and keep it for your uſe.</p>
+               </div>
+               <div type="site_of_ailment">
+                  <pb n="8" facs="tcp:37202:8"/>
+                  <head>If the burning be in the face, uſe this.</head>
+                  <p>Take two ounces of oyl of Roſes, of red Roſe-water one ounce, of the whites of two eggs, mingle them to<g ref="char:EOLhyphen"/>gether, and apply it.</p>
+               </div>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>For Burning, Scalding, Itch, Sore-Nipples, Piles both in<g ref="char:EOLhyphen"/>ward or outward, Kibes or any inflamation, as alſo for a green wound.</head>
+            <p>
+               <q>TAke half a pound of Litharge of gold, in as few pieces as you can finde them, burn it in a clear fire till it glow like burning coal; then beat it into fine powder, and put to it three pints of white wine Vinegar; boyl it to a quart, then let it ſtand ſeven hours, afterwards pour it all off (from the gravel or droſs) into a pint of Sallet-oyl. Beat them well together into a Salve.</q>
+            </p>
+            <p>
+               <q>For burning and ſcalding it muſt be laid on with lint or linnen cloth, and changed every two hours, till the fire be out.</q>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:37202:8"/>
+               <q>Where the skin is much off in burn<g ref="char:EOLhyphen"/>ing or ſcalding, it will cauſe pain and ſmarting. Wherefore in ſuch caſes work a little more oyl into the oynt<g ref="char:EOLhyphen"/>ment, to allay the ſharpneſs of the vi<g ref="char:EOLhyphen"/>negar.</q>
+            </p>
+            <p>
+               <q>If the Litharge be very ſmall pie<g ref="char:EOLhyphen"/>ces or in powder, you may burn it in a fire-ſhovel, and it will be of equal vir<g ref="char:EOLhyphen"/>tue with the larger pieces.</q>
+            </p>
+            <p>This is commended from long ex<g ref="char:EOLhyphen"/>perience in divers families of acquain<g ref="char:EOLhyphen"/>tance, with the Printer of this Trea<g ref="char:EOLhyphen"/>tiſe, who dwelleth at the <hi>Gilded-Lion</hi> in <hi>Pauls-Churchyard.</hi>
+            </p>
+         </div>
+         <div type="ailment">
+            <head>Againſt green Wounds.</head>
+            <p>TAke of the leaves of the hearb called Clowns-wound-wort, or All-heal, two handfuls; of Barrows-greaſe three or four ounces: bruiſe the hearb, and frye them together; ſtrain and keep it for your uſe.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take three handfuls of All-heal, bruiſe it, and add thereto of Sallet-oyl four ounces, of Roſen one pound, of wax ſix ounces, of Sheeps-ſuet half a
+<pb n="10" facs="tcp:37202:9"/>
+pound; cut the Suet ſmall, and the wax, then ſet them on the fire to boyl gently, ſtrain it into cold water, and make roules thereof, which is excellent to cure moſt green wounds. If you can<g ref="char:EOLhyphen"/>not get this hearb, take Comfrey, Pru<g ref="char:EOLhyphen"/>nella, or Melilot, in the room thereof,</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Stamp the roots of Solomons ſeal, and lay it to any green wound after it hath done bleeding.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Comfrey, Bugle, or Prunella, ſtamp them and fry them with May-Butter, ſtrain it, and keep it for your uſe.</p>
+            </div>
+         </div>
+         <div type="commentary">
+            <head>Touching the virtues of the herb <hi>Clowns-wound-wort</hi> or <hi>All-heal,</hi> I have thought fit to inſert in this place, that which is related by M<hi rend="sup">r.</hi> 
+               <hi>Joh. Gerrard,</hi> in his Her<g ref="char:EOLhyphen"/>bal as may be ſeen in the laſt Edition thereof, Printed 1635. <hi>Lib.</hi> 2. <hi>Chap.</hi> 390. <hi>pag.</hi> 1005.</head>
+            <p>
+               <q>THe leaves hereof ſtamped with <hi>Ax<g ref="char:EOLhyphen"/>ungia</hi> or Hoggs-greaſe, and ap<g ref="char:EOLhyphen"/>plied
+<pb n="11" facs="tcp:37202:9"/>
+unto green wounds in manner of a poulteſs, healeth them in ſhort time and in ſuch abſolute manner, that it is hard for any that have not had the ex<g ref="char:EOLhyphen"/>perience thereof, to believe. For be<g ref="char:EOLhyphen"/>ing in Kent about a patient, it chanced that a poor man in mowing of Peaſe did cut his leg with a ſithe, wherein he made a wound to the bone, and withal very large and wide, and alſo with great effuſion of blood: the poor man crept unto this herb, which he bruiſed with his hands, and tied a great quan<g ref="char:EOLhyphen"/>tity of it unto the wound with a piece of his ſhirt, which preſently ſtanched the bleeding, and ceaſed the pain; inſomuch that the poor man preſently went to his dayes work again, and ſo did from day to day, without reſting one day un<g ref="char:EOLhyphen"/>til he was perfectly whole: which was accompliſhed in few dayes, by this herb ſtamped with a little hogs-greaſe, and ſo laid upon in manner of a poulteſs; which did as it were glew or ſoder the lips of the wound together, and heal ac<g ref="char:EOLhyphen"/>cording to the firſt intention, as we term it, that is, without drawing or bring the wound to ſuppuration or
+<pb n="12" facs="tcp:37202:10"/>
+matter which was fully performed in ſeven dayes, that would have required fourty dayes with balſam it ſelf. I ſaw the wound, and offered to heal the ſame for charity, which he refuſed, ſay<g ref="char:EOLhyphen"/>ing, that I could not heal it ſo well as himſelf; a clowniſh anſwer I confeſs, without any thanks for my good will; whereupon I have named it <hi>Clownes-wound-wort</hi> as aforeſaid, ſince which time my ſelf have cured many grie<g ref="char:EOLhyphen"/>vous, and ſome mortal, with the ſame herb. One for example, done upon a Gentleman of <hi>Grays-Inn</hi> in <hi>Holborn, M<hi rend="sup">r</hi>. Edmond Cartwright,</hi> who was thruſt into the lungs, the wound en<g ref="char:EOLhyphen"/>tring in at the lower part of the <hi>Tho<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>x</hi> or the breſt-blade, even through that <hi>Carliginous</hi> ſubſtance called <hi>Mucronata Cartilago</hi> inſomuch that from day to day the frothing and puf<g ref="char:EOLhyphen"/>fing of the lungs, did ſpew forth of the wound ſuch excrements as it was poſ<g ref="char:EOLhyphen"/>ſeſſed off; beſides the Gentleman was moſt dangerouſly vexed with a double Quotidian Fever, whom by Gods per<g ref="char:EOLhyphen"/>miſſion I perfectly cured in very ſhort time; and with this Clownes experi<g ref="char:EOLhyphen"/>ment,
+<pb n="13" facs="tcp:37202:10"/>
+and ſome of my fore<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nown help<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, which are as followeth.</q>
+            </p>
+            <p>
+               <q>Firſt, I framed a ſlight <g ref="char:V">Ʋ</g>nguen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hereof thus; I took four handfuls of the herb ſtamped, and put them into <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pan, whereunto I added four ounces of Barrowes-greaſe, half a pint of oyl olive, wax three ounces; which I boil<g ref="char:EOLhyphen"/>ed unto the conſumption of the juyce, which is known when the ſtuffe doth not buble at all: then did I ſtrain it putting it to the fire again, adding thereto two ounces of turpentine the which I ſuffered to boyl a little, reſer<g ref="char:EOLhyphen"/>ving the ſame for my uſe.</q>
+            </p>
+            <p>
+               <q>In like manner, I cured a Shoo-ma<g ref="char:EOLhyphen"/>kers ſervant in <hi>Holborn,</hi> who inten<g ref="char:EOLhyphen"/>ded to deſtroy himſelf for cauſes known unto many now living; but I deemed it better to cover the fault, then to put the ſame in Print, which might make ſuch a graceleſs fellow to attempt the like; his attempt was thus. Firſt he gave himſelf a moſt mortal wound in the throat, in ſuch ſort, that when I gave him drink it came forth at the wound, which likewiſe did blow out the chandle; another deep and grevious
+<pb n="14" facs="tcp:37202:11"/>
+wound in the breſt, with the ſaid dag<g ref="char:EOLhyphen"/>ger and alſo two others in <hi>Abdomine</hi> or the neather-belly, ſo that the <hi>Zirbus</hi> or fat, commonly called the Caul, iſſu<g ref="char:EOLhyphen"/>ed forth with the guts; the which mor<g ref="char:EOLhyphen"/>tal wounds by gods permiſion and the virtues of this herb, I perfectly cured within twenty dayes; for the which the Name of God be praiſed.</q>
+            </p>
+         </div>
+         <div type="ailment">
+            <head>Againſt the ſhingles.</head>
+            <p>TAke Doves-dung, and mix it with oyl of Roſes or Sallet-oyl; apply it to the place affected.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Swans-dung, or for want thereof) Gooſ-dung, wix it with the white of an egge, and uſe it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Doves-dung two or three handfuls, of wheaten meal and wine-vinegar, of each ſo much as is ſuffici<g ref="char:EOLhyphen"/>ent to make them into a Poulteſs. Ap<g ref="char:EOLhyphen"/>ply it, and lay a Cole-wort-leaf on the top thereof: renew it every ſix hours.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of Plantan-water ſix ounces
+<pb n="15" facs="tcp:37202:11"/>
+of Vinegar of Roſes (or in the room ſtrong wine Vinegar,) one ounce; mix them together, dip linnen rags there<g ref="char:EOLhyphen"/>in; apply it warm to the place affect<g ref="char:EOLhyphen"/>ed and to the adjacent parts; renew it ſo often as it dryeth up the linnen raggs.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of the juyce of Plantain, the juyce of Houſleek, the juyce of Night<g ref="char:EOLhyphen"/>ſhade, and ſtrong wine Vineger, of each a like quantity; mix them and uſe it as before.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take half a pint of Cream, mix with it Bran or crums of white bread ſteep<g ref="char:EOLhyphen"/>ed in milk, and make a Poulteſs there<g ref="char:EOLhyphen"/>of. Apply it warm.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take oyl of Roſes, oyl of Violets, oyl of Chamomil, and juyce of Plan<g ref="char:EOLhyphen"/>tain; of each one ounce: mix them to<g ref="char:EOLhyphen"/>gether, and apply.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Anoynt the place with the blood of a Cat warm.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <pb n="16" facs="tcp:37202:12"/>
+            <head>Againſt Tetters, Ring-wormes.</head>
+            <p>TAke of Barrowes-greaſe two ounces, of Tarr one ounce; boyl them gently together, and put therein of Elicampane in fine powder, half an ounce; with this anoint the Tetter morning and evening.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take red Dock-rootes, cut them into thin ſlices, and ſteep them all night in ſtrong wine Vinegar; with this waſh the place often, or ſtamp the rootes and vinegar together in a morter, and apply it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of Allom one ounce, of Gar<g ref="char:EOLhyphen"/>like as much; dry the Garlike and burn it to aſhes, beat alſo the Allom to powder; mix them with a ſufficient quantity of vinegar and honey: boyl them gently to a good body (taking off the skum as it riſeth,) and keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of the beſt Aloes one ounce and a half of ſtrong wine vinegar three
+<pb n="17" facs="tcp:37202:12"/>
+ounces; let the Aloes be made into fine powder; mix it with the vinegar and add thirty drops of oyl of Vitri<g ref="char:EOLhyphen"/>ol; waſh the place therewith, being firſt ſhaken together.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of quick Lime four pound, quench it in three gallons of ſcalding water, mix it well together and ſtrain it, then let it ſettle, and keep a gallon of the cleareſt for to waſh the Tetter.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a quart of white wine vine<g ref="char:EOLhyphen"/>gar, boyl therein of Wood-binde-leaves, Sage and Plantain, of each one handful, of White-Coperas four ounces, of Allom as much as an egge; boyl them to half a pint, or three quarters of a pint; ſtrain out the li<g ref="char:EOLhyphen"/>quor, and waſh the Tetter therewith.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt Biles or Fellons.</head>
+            <p>TAke the crumes of Bread, Rai<g ref="char:EOLhyphen"/>ſons of the ſun ſtoned, of each a ſufficient quantity, add to them Hogs-greaſe, Leaven, Cowmilk, and a little Saffron; Apply this till it break; then
+<pb n="18" facs="tcp:37202:13"/>
+draw out the corruption with plaſters of Burgundie-pitch.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Smallage, Rue, and red Sage, of each one handful, cut and bruiſe them, and mix therewith Leaven, and the Grounds of ſtrong Ale or Beer. Apply it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Rag-wort, Rue and Hyſſope, of each as much as you can hold in two of your fingers, one clove of Gar<g ref="char:EOLhyphen"/>like and a little piece of ſowr Leaven, a ſpoonful of bay Salt, and a piece of ruſtie Bacon; beat them together and lay it on for twenty four hours ſpace.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of fine Malt-flower a hand<g ref="char:EOLhyphen"/>ful, of Sope as much as a Wallnut; boyl them together in beer until it be thick; lay this to the place and change it two or three times in a day.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take red Sage, Rue, Snailes, Bay-ſalt and Bacon, of each a ſufficient quantity, beat them together and ap<g ref="char:EOLhyphen"/>ply it.</p>
+            </div>
+            <div type="treatment">
+               <pb n="19" facs="tcp:37202:13"/>
+               <head>Or,</head>
+               <p>Take red Sage, Rue and Ragwort, of each a handful, cut and bruiſe them: Add thereto of ſowr Leaven about the bigneſs of a Tennis-ball, of Tarr two ſpoonfuls, of black Sope a ſpoon<g ref="char:EOLhyphen"/>ful; ſtamp them all together, and ap<g ref="char:EOLhyphen"/>ply it morning and evening,</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take ſome wheaten flour, and boyl it in Beer or Ale to a good thickneſs, apply it warm.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the leaves of Sorrel, Marſh Marigold of each half a handful, white Lillie root a quarter of an ounce, ſtamp them a little together, then lap them in a Dock-leaf and roaſt them in Embers. Apply it hot.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Bay-ſalt in powder and mix it with the white of an egge. Apply it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take half a handful of Smallage, wheaten Leaven, black Sope, the white of an egge and wheat flower; ſtamp them together and lay them on a
+<pb n="20" facs="tcp:37202:14"/>
+cloth to the Fellon.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt Kibes and Chil-blains.</head>
+            <p>TAke Pomgranate pill, bruiſe it, then being boyled in white wine or Vinegar; waſh the place there<g ref="char:EOLhyphen"/>with.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of the bitter Vetch called O<g ref="char:EOLhyphen"/>robus one ounce; bruiſe and boyl them in water, with which bath the place.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Camomill and Melilot of each half an ounce, of Marſh-mallow-roots one ounce, Cummin-ſeed and Bay-berries of each a quarter of an ounce; make them in powder, and mix therewith four ounces of Boars-greaſe, or Hogs-greaſe. Anoint the Kibes with it.</p>
+               <p>A Rape or Turnep roaſted with freſh-Butter, and applied, is good for the ſame.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Earth-worms boyled in oyl, with which anoint the Kibes.</p>
+            </div>
+            <div type="treatment">
+               <pb n="21" facs="tcp:37202:14"/>
+               <head>Or,</head>
+               <p>Take the pap of Apples and Tur<g ref="char:EOLhyphen"/>neps of each three ounces, of freſh Butter two ounces, of Ducks-greaſe, or Swans-greaſe, or Capons-greaſe, one ounce; mix them together and ap<g ref="char:EOLhyphen"/>ply it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Waſh the feet or hands with Brine of Beef, or with the pickle of Olives.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Bath them with Oates boyled in water and Vinegar.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Against the Itch and Scab.</head>
+            <p>TAke a handful of yellow Dock-roots, bruiſe them very well, then boyl them in ſix ounces of Hogs-greaſe, ſtrain it, and being cold, add thereto half an ounce of Brimſtone in fine powder, and a quarter of an ounce of Elecampane root in powder; mix them together, and anoint the itch therewith.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the juyce of Scabious and Fu<g ref="char:EOLhyphen"/>mitorie, of each one ounce, powder of Elecampane a quarter of and ounce,
+<pb n="22" facs="tcp:37202:15"/>
+oyl of Roſes and white Lillies, of each half an ounce; boyl them in two or three ounces of Vinegar till it be thick. Keep it to uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take four ounces of ſtrong Vinegar, of Roch-Allom half an ounce; of Plantain, Sink-foyl, Honey-ſuckle leaves, of each half a handful; boyl them gently to the waſting of half: then add to the ſtrained liquor a quarter of an ounce of white Mercury in fine pow<g ref="char:EOLhyphen"/>der. Boyl them a little, and keep it, to waſh the Itch with.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Boyl Dock-roots, Scabious, Sope-wort, Fumitorie and Sorrel in water and Vinegar. Bath with it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take water-Betonie two good hand<g ref="char:EOLhyphen"/>fuls, Dayſie-leaves and Ale-hoof or Ground-Ivy, of each a handful, of red Dock-roots as much; bruiſe them well, and mix therewith half a pound or twelve ounces of Hogs-greaſe, let them ſtand in a crock ſeven or eight dayes; then being boyled gently and ſtrained keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <pb n="23" facs="tcp:37202:15"/>
+               <head>Or,</head>
+               <p>Take one ounce of Salt-Peter, half an ounce of Roch-Allom; boyl them in a pint of Vinegar till about half be conſumed, then uſe it to the place grie<g ref="char:EOLhyphen"/>ved.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Boyl Tobacco ſtalks in water and Vinegar; bath with it warm.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take one ounce of Tobacco in fine power, of Brimſtone in powder a quarter of an ounce, mix them toge<g ref="char:EOLhyphen"/>ther with three four or ounces of Hogs-greaſe, and make an oyntment: with this anoint the body every night.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt Bruiſes, and ſtrains.</head>
+            <p>IF the inward parts be bruiſed, give a little Sperma ceti (which the vulgar call Parmacitty) morning and even<g ref="char:EOLhyphen"/>ing with ſome Stone-pitch in powder. It may be taken in Beer, Poſſet-drink, or Sack.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Give twenty grains of Iriſh-ſlat powdered in any of the aforeſaid li<g ref="char:EOLhyphen"/>quors.</p>
+            </div>
+            <div type="treatment">
+               <pb n="24" facs="tcp:37202:16"/>
+               <head>Or,</head>
+               <p>Pour out the white of an egge, and put in ſome Sperma ceti; roſt it ſoft, then ſup it up in a morning faſting.</p>
+               <p>If the party bleed, give him a Dram (which is half a quartern of an ounce) of Bole-armonack powdered in Poſſet drink, wherein St. Johns-wort and Bugle hath been boyled.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Outward means.</head>
+            <p>Take two ounces of oyl of Peter, one ounce of oyl of Turpentine, half an ounce of oyl of Roſes, as much of yellow wax, melt the wax in the oyles, and anoint with it.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Solomons-ſeal being green, bruiſe it and fry it with freſh-Butter. Apply it warm.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take two pound of freſh-Butter; put to it of Broom-flowers and El<g ref="char:EOLhyphen"/>der-flowers of each a good handful or more, of Sage half a handful; bruiſe the herb and flowers: mix them with the Butter, then put them in a Pipkin or Crock ſeven or eight hours in a
+<pb n="25" facs="tcp:37202:16"/>
+Kettle of hot water, cover it, and keep the Kettle alwaies full of water; when it hath thus boyled, take it out, and let it ſtand a while (but not till it be cold) then ſtrain, and reſerve it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Ale-hoof, Brook-lime and Smallage, of each a handfull; bruiſe them, and add thereto half a pound of Hogs-greaſe and ſheeps-ſuet; fry them together, ſtrain it, and when it is al<g ref="char:EOLhyphen"/>moſt cold put thereto a little Sperma<g ref="char:EOLhyphen"/>ceti or oyl of Spermaceti; mix them together and keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Chickweed, Wheat-bran, and the Grounds of ſtrong Ale or Beer, cut the herb ſmall and mix them toge<g ref="char:EOLhyphen"/>ther, then apply them warm to the place, ſtrained or bruiſed.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Camomill, Worm-word, of each one handful, Red Roſe leaves half a handful, of Barly meal one hand<g ref="char:EOLhyphen"/>ful. Boyl them ſoft in water or milk, then put freſh-Butter or oyl of Roſes to it, and lay it warm to the bruiſed part.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <pb n="26" facs="tcp:37202:17"/>
+            <head>Against Blackneſſe or Blewneſs of the face or eyes.</head>
+            <p>TAke of Caſtle-Sope two ounces, of the oyntment called Dialthaeae one ounce, of Aquavitae half a quarter of a pint, melt them together and a<g ref="char:EOLhyphen"/>noint therewith morning and evening.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the the juyce of Solomons-ſeal, of Unguentum album, and the white of an egge, mingle them together, and apply it morning and evening.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Anoint with the oyntment Dialthaeae mixed with a little Spermaceti.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the roots of blew Flower-De<g ref="char:EOLhyphen"/>luce, beat it with Roſe-water, then lay it between a linnen cloth and apply it to the eyes.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Paper four double; wet it well in cold water, and lay it to the bruiſe.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <pb n="27" facs="tcp:37202:17"/>
+            <head>Againſt Aches.</head>
+            <p>TAke Aqua vitae, Neates-foot-oyl, oyl of Camomil, of each a like quantity; mingle them together, and uſe it againſt cold aches.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take oyl of Exeter, Aqua vitae and Oxe-gall, of each two ounces: mix them together, and uſe it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take four ounces of oyl of Bay, two ounces of Aqua vitae; mix them together.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Camomil, Sage, Dill, Roſe<g ref="char:EOLhyphen"/>mary, of each a good handful; bruiſe and cut them; then add thereto a pint of Lin-ſeed-oyl. Boyl them to<g ref="char:EOLhyphen"/>gether for the ſpace of half an hour, then put in half a pound of freſh-But<g ref="char:EOLhyphen"/>ter; boyl it again very gently, ſtrain it, and keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take half an ounce of oyl of Peter, oyl of Spike and Philoſophers oyl, of each a quarter of an ounce, oyl of Exe<g ref="char:EOLhyphen"/>ter half an ounce, mingle them toge<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <pb n="28" facs="tcp:37202:18"/>
+            <head>To draw out Thorns and Splinters.</head>
+            <p>APply common Turpentine to the place ſpred upon leather.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Make a plaſter of Galbanum, or Ammoniacum and lay it to the thorn or ſplinter.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a piece of Spunge, or a lock of wool, dip it in hot Urine, and apply it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Bray Nettle roots and Salt together, lay it on.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the roots of Polypodium; bruiſe them with Barrows-greaſe, and apply it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a piece of Foxtongue ſteeped all night in Vinegar, binde it faſt, and in a day or two it will draw it out.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take black Sope, Tarr, Gooſe-dung, or Hens-dung; mix them together and apply it.</p>
+            </div>
+            <div type="treatment">
+               <pb n="29" facs="tcp:37202:18"/>
+               <head>Or,</head>
+               <p>Take Honey, Oxe-gall, and chalk in powder; mingle them together and lay it to the place where the thorn is.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt bleeding of the Noſe.</head>
+            <p>TAke Olibanum, Aloes, Dragons-blood, Bole-armonack, of each half an ounce, make them in powder, and mix them with the white of an egge and the hair of a Hare that grow<g ref="char:EOLhyphen"/>eth under the belly; Apply it to the temples and nod of the neck, alſo put up a tent of the ſame into that noſtril that bleedeth.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take linnen clothes and wet them well in Vinegar; apply it cold to the privy members of him that bleedeth.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take half a pint of Plantain water, as much ſtrong wine Vinegar, mingle them together, and take linnen clothes, and wet therein, lay ſome of them to the ſoles of the feet, and ſome on the right ſide, where the Liver lieth, and ſome to the palmes of the hands, and
+<pb n="30" facs="tcp:37202:19"/>
+ſome to the nape of the neck and to the forehead.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take an egg-ſhell and fill it with the party his blood that bleedeth, dry it in hot Embers, make it into powder, and blow up ſome of it into his noſtrils with a quill.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take four ounces of Plantain water or the juyce thereof, two ounces of ſtrong Vinegar, one ounce of the juyce of Knotgraſs, one ounce and a half of Bole-armonack in powder; mix them together, wet a double linnen cloth therein, and apply it cold to the fore<g ref="char:EOLhyphen"/>head.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Bole-armonack, Draggons-blood, of each one ounce in powder, mix them with the white of an egge and the juyce of Plantain to the form of a Poultis. In men that bleed, apply it to the forehead, temples and teſti<g ref="char:EOLhyphen"/>cles. In women, to the forehead, tem<g ref="char:EOLhyphen"/>ples and breaſts.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Burn an egge-ſhel in the fire till it be as black as a cole, make it into fine powder, and let the party that bleeds ſnuff up ſome into his noſtrils.</p>
+            </div>
+            <div type="treatment">
+               <pb n="31" facs="tcp:37202:19"/>
+               <head>Or,</head>
+               <p>Take Aloes one ounce, Milduſt half an ounce, the hair of an Hare cut very ſmall half a quarter of an ounce or leſs, mingle them together, and make Tents thereof with the white of of an egge, and put them up into the noſtrils. The Tents are to be made with fine Flax or Tow.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt the bleeding of a wound.</head>
+            <p>IF a wound bleed, take the white of an egge Bole-armonack, and ſome Milduſt; mix them together, and lay it on Flax or lint binding it faſt.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the moſſe of an Oake, and lay it to the wound.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take old clean linnen, burn it as you do Tinder, and lay it to the wound.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Lay on a Copweb that is clear from filth and dirt.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <pb n="32" facs="tcp:37202:20"/>
+            <head>Againſt the Piles or Hemor<g ref="char:EOLhyphen"/>rhoides.</head>
+            <p>TAke two handfuls of Pilewort, roots and all, bruiſe it and add two or three ounces of Hoggs-greaſe, boyl them gently together, then ſtrain it and anoint therewith: alſo boyl Pile-wort in Beer or water, and drink a good draught of it morning and even<g ref="char:EOLhyphen"/>ning.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take burnt Muſcle-ſhells in fine pow<g ref="char:EOLhyphen"/>der half an ounce, Saffron in powder thirty grains; mix them with Honey, and anoint with it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Beat the yolk of an egge and ſome Sallet oyl, or oyl of Roſes, together with ſome Saffron and Spread it on Leather, lay it to the place affected.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Melilot, Fenegreek, and Lin<g ref="char:EOLhyphen"/>ſeed, of each a like quantity; bruiſe them and mix therewith the white of an egge, make a Poulteſs, and lay it to the Piles.</p>
+            </div>
+            <div type="treatment">
+               <pb n="33" facs="tcp:37202:20"/>
+               <head>Or,</head>
+               <p>Take an Onion well roſted in the Embers, bruiſe it, and add thereto meal or powder of Fenegreek, Linſeed, and Camomil flowers, as much as ſufficeth; put alſo a little Butter and Saffron to it; make a Poultis and apply it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the fat of a Hen and mix therewith the yolk of an egge, Saffron and oyl of Roſes. Lay it on.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take two ounces of Doggs-dung in fine powder, four ounces of common oyl or Lin-ſeed-oyl, boyl them gently together, then add two or three ounces of wax, and make an oyntment.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take oyl of Violets (waſhed in Violet water) and freſh-Butter waſh<g ref="char:EOLhyphen"/>ed of each one ounce, of Lin-ſeed-oyl half an ounce, with the yolk of an egge, and the fore-mentioned, make an oynt<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Elder leaves and boyl them in water till they be very tender; with this bathe the Fundament warm, and lay on the leaves with a piece of Cot<g ref="char:EOLhyphen"/>ten
+<pb n="34" facs="tcp:37202:21"/>
+dipped firſt in the bath.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take two ounces of oyntment of Roſes, one ounce and a half of Popu<g ref="char:EOLhyphen"/>leon oyntment, the yolk of one egge, of Opium thirty grains; mix them to<g ref="char:EOLhyphen"/>gether, and anoint therewith.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take one ounce of Linſeed-oyl, and two or three Plantain leaves, ſtamp them, and being gently boyled toge<g ref="char:EOLhyphen"/>ther, apply it. This doth eaſe pain.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Henbane leaves and Purſlain, cut them ſmall, then take crums of white Bread and boyl them all in Milk, till they be ſoft, add alſo the yolk of a hard roaſted egge and oyl of Roſes. Apply it to the Fundament.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt bleeding of the Piles.</head>
+            <p>IF they bleed much take the juyce of Leeks, and give the party a ſpoon<g ref="char:EOLhyphen"/>ful thereof for three or four mornings together.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Give the juyce of Yarrow every morning for four or five dayes toge<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div type="treatment">
+               <pb n="35" facs="tcp:37202:21"/>
+               <head>Or,</head>
+               <p>Take of Oak leaves five handfuls, of Red Roſes two handfuls, of Acorn cups three handfuls; boyl them in a ſufficient quantity of water; In which quench often red hot Iron or Steel, and ſo bath the Piles therewith morning and evening.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of Acorn cups, or the leaves of the Oake one handful, boyl them in water, wet a red cloth therein, and ap<g ref="char:EOLhyphen"/>ply it warm.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the parings of Horſe hoofs, burn it in a chafingdiſh of coles, and ſit over it.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt a weak Back. Inward means.</head>
+            <p>TAke one ounce of the pith of an Oxe black, one ounce of Dates, cut them in thin ſlices; boyl theſe in half a pint of Muſcadine, and take thereof every morning and evening.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of Clary and Nep of each a handful, cut them ſmall, then with eggs
+<pb n="36" facs="tcp:37202:22"/>
+and flower make Batter, fry it with Butter, eat every morning thereof for a week or two.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take as much of white and red Sanders in powder as will lye on a ſix pence every morning, in five or ſix ſpoonfuls of Muſcadine, for a week or more.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of Knot-graſs, Comferie and Cinque-foyl, of each two handfuls; boyl theſe with a knuckle of Veal and Raiſons of the Sun, a few Cloves, and a little Mace, ſtrain it and take it every morning with Riſe in powder.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Boyl Iſinglaſs in milk, and take every morning and evening a good draught.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Outward meanes.</head>
+            <p>Take Comfrie, White Archangel-flowers, Plantain and Shepherds purſe of each a good handful; cut them and bruiſe them, then fry them with freſh Butter ſtrain it, with which anoint the back morning and evening warm, lay<g ref="char:EOLhyphen"/>ing
+<pb n="37" facs="tcp:37202:22"/>
+on a linnen cloth.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take half an ounce of the plaſter called Diachylon ſimplex, of De mi<g ref="char:EOLhyphen"/>nio and Diapalma, of each as much, melt them together with a little oyl of Roſes, and ſpread a plaſter thereof on linnen or leather, lay it to the back.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt the biting of a mad Dog, or any other venoumous creature.</head>
+            <p>LEt the wound be waſhed well with Vinegar and Honey, or Honey and white wine, then apply ſome Treacle mingled with Turpentine and Butter, or elſe Garlick and Onions ſtamped with Butter, or Sallet oyl.</p>
+            <p>Give the party morning and even<g ref="char:EOLhyphen"/>ing ſome London Treacle, or Venice Treacle in Poſſet drink wherein is boyl<g ref="char:EOLhyphen"/>ed wood-ſage.</p>
+            <p>To heal the ſore after the Venome is out, apply a plaſter of Flos Unguen<g ref="char:EOLhyphen"/>torum.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of Rue as much as you can hold between two fingers, of Garlicke,
+<pb n="38" facs="tcp:37202:23"/>
+half as much, of Wallnuts, or the huskes, or the leaves of the Tree, a handful; ſtamp and ſtrain them with Ale or Beer, add thereto of London Treacle or Venice Treacle the quantity of a nut; drink off the liquor, and lay the faeces, or that which is ſtrained out, to the ſore.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a good handful of Betony, as much of wilde Sage; boyl them in Poſſet-drink, and take thereof morn<g ref="char:EOLhyphen"/>ing and evening with ſome Treacle of Andromachus.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Give fourty grains of Gentian root in powder (or more in a ſtrong body) with Poſſet drink for two or three mornings together.</p>
+               <p>If it be a mad Dog, diſſolve a little Mithridate or Treacle of Androma<g ref="char:EOLhyphen"/>chus in Treacle-water, or wine Vine<g ref="char:EOLhyphen"/>gar; dip raggs in it, and apply it warm to the ſore, and rub the ſore often with it: Afterwards lay upon it a Poulteſs made with Turpentine, Honey and O<g ref="char:EOLhyphen"/>nions, or Garlick, buiſed therewith.</p>
+               <p>The liver of the mad Dog is com<g ref="char:EOLhyphen"/>mended,
+<pb n="39" facs="tcp:37202:23"/>
+if it be given the party in powder to drink in Poſſet-drink.</p>
+               <p>If Bees or Waſps ſting any, preſently pull out the ſting if it be left behinde, and lay Honey to it, or Mithridate, or Cow-dung with Sallet-oyl.</p>
+               <p>If the eye be ſtung, pull out the ſting preſently and apply Carduus bruſed with the white of an egge, and ſo re<g ref="char:EOLhyphen"/>new it two or three times if need re<g ref="char:EOLhyphen"/>quire.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt Deafneſs.</head>
+            <p>TAke one ounce of oyl of Caſtor, oyl of Roſes and oyl of bitter Al<g ref="char:EOLhyphen"/>monds of each half an ounce, Aqua vitae one ounce; boyl them together till the Aqua vitae be conſumed. Put four or five drops of it into the ear a little warm every night, and ſtop the ear with black wooll.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the powder of Bayberries and boyl it in oyl of Lillies or Sallet-oyl, then drop ſome of it into the ear every night, and ſtop it as before.</p>
+            </div>
+            <div type="treatment">
+               <pb n="40" facs="tcp:37202:24"/>
+               <head>Or,</head>
+               <p>Boyl Bayberries (being firſt well bruiſed) in white wine, and hold your ear over the hot fume thereof two or three times in a day.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Marjerom, Rue, Camomill and Roſe-mary, of each a like quanti<g ref="char:EOLhyphen"/>ty, boyl them in Vinegar; take the fume thereof into the ear or ears with a Tunnel or Funnel, after this is done, put ſome oyl of bitter Almonds into the ear and ſtop it with wool.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the juyce of Ground-Ivie, and put it warm into the ear; ſtop it as before.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take two ounces of the juyce of Rue, as much womans milk, boyl it to<g ref="char:EOLhyphen"/>gether till it be curdled, then ſtrain it, dip wood in the juyce warm and put it into the ear.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take an Onion and cut a hole there<g ref="char:EOLhyphen"/>in, then put into it oyl of bitter Al<g ref="char:EOLhyphen"/>monds and freſh Butter without ſalt, boyl them together gently: drop of
+<pb n="41" facs="tcp:37202:24"/>
+the liquor into the ears warm.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt dim and ſore eyes.</head>
+            <p>TAke Fennel, Vervein, Celandine, Rue, Eye-bright and red Roſes of each two handfuls, diſtill them and waſh the eyes therewith.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Diſtil green Wallnuts (huskes and all) in a Still, and waſh your eyes with the water,</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take half an ounce of Tutiaſtone, or Tuttie, make it into fine powder, and put it into four ounces of white wine, as alſo two ounces of red Roſe-water, ſhake it often together, and waſh the eyes therewith.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of the juyce of Ground-Ivy, Celandine, and Daiſies, of each one ounce, put to them a little Roſe-water, and white Sugar Candy in fine pow<g ref="char:EOLhyphen"/>der.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <pb n="42" facs="tcp:37202:25"/>
+            <head>Againſt watering and itching of the eyes.</head>
+            <p>TAke one ounce of Lapis Calamina<g ref="char:EOLhyphen"/>ris, make it hot in the fire, then quench it in half a pint of white wine ſeven or eight times, when this is done make it in fine powder, and put it to the wine; waſh your eyes therewith.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Make a plaſter of Gumelemnie, and lay it to the Temples. This will ſtop the Rehume.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take one ounce of Tuttie in fine powder, four ounces of freſh Butter without ſalt, one ounce of oyl of Roſes, mix them together and make an oynt<g ref="char:EOLhyphen"/>ment, with which anoynt the eyes at night.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take half an ounce of Lapis Cala<g ref="char:EOLhyphen"/>minaris, and of white Candy as much, of white wine one ounce or more; make the ſtone red hot in the fire, let it cool, then make it into fine powder; mix it with the wine, and put in the
+<pb n="43" facs="tcp:37202:25"/>
+white Candy in power; keep it in a glaſs for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a good handful of young red Fennel, as much of Eye-bright, one ounce of white Sugar-Candy, a quar<g ref="char:EOLhyphen"/>ter of an ounce of white Coperas; boyl them all in a pint of running wa<g ref="char:EOLhyphen"/>ter till about half be conſumed, then ſtrain it, and drop of the cleareſt into your eyes.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take half an ounce of white Cope<g ref="char:EOLhyphen"/>ras in powder, and fourty grains of Orris root in powder, add to them two or three ounces of red Roſe-wa<g ref="char:EOLhyphen"/>ter, and waſh your eyes therewith, or drop ſome into your eyes.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt ſpots in the eyes.</head>
+            <p>DRop the juyce of Celandine into the eyes.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the juyce of Ground-Ivie, and put into the eyes.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take half an ounce of burnt Co<g ref="char:EOLhyphen"/>cle-ſhels,
+<pb n="44" facs="tcp:37202:26"/>
+as much of Olibanum, and a quarter of an ounce of Sarcocolla, make them all in fine powder, and blow ſome of it into the eye with a quill.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt Bloodſhotten and red eyes.</head>
+            <p>TAke Wormwood, bruiſe and mix it with the white of an egge and a little red Roſe-water; apply it to the eyes.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Put into the eye white Sugar-Candy in fine powder.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take new Cheeſe often waſhed in fair water, beat it with the white of an egge, and apply it to the eye, or eyes.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt the Tooth-ach.</head>
+            <p>VVAſh your Teeth with a decocti<g ref="char:EOLhyphen"/>on made with Vinegar and Hyſope.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Henbane root, bruiſe it, and
+<pb n="45" facs="tcp:37202:26"/>
+boyl it in wine Vinegar, hold the de<g ref="char:EOLhyphen"/>coction in your mouth.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>If Rheume be the cauſe thereof, chew a piece of Pellitorie of Spain in your mouth, and that will draw much Rheume.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Salt, Pepper and Garlike, beat them together, and being put into a clout, hold it in your mouth.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Sage and Pellitorie, boyl them in Vinegar, and hold thereof in your mouth as hot as may be.</p>
+               <p>If it be a hollow tooth, put a little Mithridate therein.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take lint and wet it in oyl of Spike, oyl of Origanum, or oyl of Cloves, put it into the hollow tooth. But the beſt remedy for a hollow tooth is to pull him out.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <pb n="46" facs="tcp:37202:27"/>
+            <head>Againſt an Ague. Inward means</head>
+            <p>TAke Carduus, Centory, the roots of Butter-bur, of each a quar<g ref="char:EOLhyphen"/>ter of an ounce, make them into pow<g ref="char:EOLhyphen"/>der, of which take as much as will lye on a ſix pence, in Poſſet-drink wherein Marigold flowers have been boyled. Give it before the fit commeth, and let them ſweat.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a dram (which is half a quar<g ref="char:EOLhyphen"/>ter of an ounce) of Carduus, or Butter-bur root in powder, give it in Poſſet-drink before the fit, and ſweat after it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a ſpoonful or two of the juyce of Germander, and give it the party warm before the fit cometh.</p>
+               <p>In the hot fit Orreng poſſet is very good or Lemon poſſet.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <pb n="47" facs="tcp:37202:27"/>
+            <head>Againſt the cold ſhakings of Agues.</head>
+            <p>Take Camomill and Wormwood of each a handful, boyl them in Poſ<g ref="char:EOLhyphen"/>ſet drink and give thereof in the cold fit.</p>
+         </div>
+         <div type="ailment">
+            <head>Againſt Agues. Outward means,</head>
+            <p>Take a Pickl'd Herring, ſlit him in the middeſt, and apply to the ſoles of each foot one part warm; let it ly on ſix or eight hours; do this before the fit commeth.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Celandine, Rue, of each one handful, bruiſe them ſmall, and add four ounces of black Sope, the whites of three or four eggs; mix them well together, binde it to the wriſts and ſoles of the feet.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Venice Turpentine, ſpread it on Leather, ſtrow thereon Nutmeg and Olibanum in powder, lay it to the wreſts.</p>
+            </div>
+            <div type="treatment">
+               <pb n="48" facs="tcp:37202:28"/>
+               <head>Or,</head>
+               <p>Make a plaſter of Venice Turpen<g ref="char:EOLhyphen"/>tine, and ſtrow on it the Powder of Rue. Apply it to the wriſts.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a good handful of Feverfew, bruiſe it and add a little bay-Salt and Glaſs in powder; lay it to the wriſts.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Cut an Orange in the middeſt, and ſpread each part with Mithridate, lay it to the wriſts warm, and bind it on.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Rue and Bayſalt, bruiſe them and lay it to the wriſts.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Hang Camphor about the neck in a thin rag, or piece of ſilk. This hath cured many, eſpecially children.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt the Collick, Stone, or Gra<g ref="char:EOLhyphen"/>vel.</head>
+            <p>TAke Parſly-ſeed, Gromel-ſeed, of each half an ounce, of Bay-ber<g ref="char:EOLhyphen"/>ries as much, of Licoris one ounce, let them be bruiſed and boyled in Poſet
+<pb n="49" facs="tcp:37202:28"/>
+drink, ſtrain it, and drink thereof morning and evening, a good draught warm.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Boyl Alexander-ſeed, or the herb in Poſſet drink; ſtrain and drink of it as before.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Boyl one ounce of Juniper-berries in Poſſet-drink, adding thereto half an ounce of Licoris; drink morning and evening a good draught, warm.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of time Parſly-roots, Fennel-roots (the pith taken out) and Alex<g ref="char:EOLhyphen"/>ander-leaves, of each a handful, boyl them in white wine and water ſuffici<g ref="char:EOLhyphen"/>ently, ſtrain it and drink thereof mor<g ref="char:EOLhyphen"/>ning and evening.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>For the Collick.</head>
+            <p>Take of Cow-dung one pound, of Cummen-ſeed and Carraway-ſeed, of each one ounce or more, bruiſe them and mixed with the dung, apply it to the belly warm, adding a little Hoggs-greaſe to it.</p>
+         </div>
+         <div type="ailment">
+            <pb n="50" facs="tcp:37202:29"/>
+            <head>Againſt the Cough.</head>
+            <p>TAke of Clarified Honey four oun<g ref="char:EOLhyphen"/>ces, and put to it of Elecampane root in fine powder, half an ounce, or three quarters of an ounce; mix them together at the fire, and being throughly hot, keep it for your uſe, and take often of it.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take two hanfuls of Hyſſope, Rai<g ref="char:EOLhyphen"/>ſons of the Sun ſtoned four ounces, Figgs cut in ſlices two ounces, Licoris bruiſed one ounce, boyl theſe in a ſufficient quantity of water, ſtrain it and take often thereof.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take two or three handfuls of Horehound two ounces of Licoris bruiſed, boyl them in water, and be<g ref="char:EOLhyphen"/>ing ſtrained drink of it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take as much powder of Brimſtone or flower thereof as will lye one a ſix pence, morning and evening in an egge half roaſted, for the ſpace of a week.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <pb n="51" facs="tcp:37202:29"/>
+            <head>Againſt the flux or looſneſs of the Body.</head>
+            <p>BOyl the inward rinde of an Oak in milk, ſtrain it and put thereto powder of Rice, Cinamon in powder, alſo a little Sugar, eat of it often,</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take one Dram (which is half a quarter of an ounce) of the root of Tormentill in powder, mix it with half an ounce of Conſerve of red-Roſes, and eat it, or let it be given in red wine, or Plantain-water.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Give fourty grains of Acorn-cups powdered in Riſe milk, morning and evening.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Give a Dram of Acorn-cups pow<g ref="char:EOLhyphen"/>dered in Poſſet-drink for two or three mornings together.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a pint of red wine, and put to it a quarter of an ounce of Cinamom, and as much Plantainſeed, bruiſed; boyl
+<pb n="52" facs="tcp:37202:30"/>
+them gently together, ſtrain it, and give often thereof.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Plantain, Knot-graſs and Shepheards-purſe, of each a handful; boyl them in new milk, ſtrain it and being thickned with crums of ſtale white bread, eat thereof.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Give a Dram of old Venice Treacle morning and evening for four or five dayes together in Plantain water.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Againſt the Gout.</head>
+            <p>TAke Milk, boyl it, and turn it with Vinegar, take off the curd and lay it to the part affected.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take ground-worms and put them into Vinegar, that they may be purged from filth, then take half a pound of them and a pound of Hoggs-greaſe, beat them together and lay it on.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a pickle-Herring and pul away the bone, ſtamp it very ſmall then put to it one ounce of Unguentum Po<g ref="char:EOLhyphen"/>puleon
+<pb n="53" facs="tcp:37202:30"/>
+and a little Bole-armonack in powder, as alſo ſome red Roſe-water; Apply it cold to the grieved place.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take red Roſe-leaves, Camomill and Melilot, of each on handful, of Linſeed bruiſed or powdered one ounce, of the crums of white Bread half a pound, boyl them in milk to a Poulteſs, adding therefore ſix penny-worth of Saffron and the yolks of two eggs. Lay it on to the grief.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take oyl of Roſes and wax of each four ounces Saffron a quarter of an ounce, melt the wax in the oyl, and put in the Saffron in powder, then add the yolks of two eggs, make an oyntment and keep it for your uſe.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a pound of Raiſons of the Sun ſtoned, bruiſe them, and apply it to the affected part.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Beat a Sheeps-head all to pieces, boyl it with two handfuls of Mal<g ref="char:EOLhyphen"/>lowes, and as much Balm, till the bones
+<pb n="54" facs="tcp:37202:31"/>
+fall out; bath the member with the li<g ref="char:EOLhyphen"/>quor morning and evening.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Bath the member in Sea-water.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take dregs of ſtrong Ale or Beer, and put therein crums of Rie Bread; boyl them to a poulteſs, and apply it.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Wormwood, Walwort, and Bran of Wheat, of each two hand<g ref="char:EOLhyphen"/>fuls, bruiſe the herbs and add two handfuls of Cow dung or Horſe-dung, let them be boyled in Vinegar, till the Vinegar be almoſt conſumed, then ap<g ref="char:EOLhyphen"/>ply it warm.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a handfull of red Roſe leaves and a pinte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> new milke: boil them with crums of bread to a Poultis, and apply it warm.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a ſpoonful of Bay-ſalt, as much gray Sope, and the quantity of Wall<g ref="char:EOLhyphen"/>nut of Boares greaſe, Rue and Sage, of each half a handful. Beat them alto<g ref="char:EOLhyphen"/>gether, and lay it on a cloth to the place affected, renew it once a day.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <pb n="55" facs="tcp:37202:31"/>
+            <head>Againſt the yellow Jandiſe.</head>
+            <p>TAke a handful of Angelica-leaves, bruiſe it, and add Sheeps-dung and Gooſe-dung of each half a handful, ſteep them all in a pint and a half of Ale or Beer for one night, ſtrain it and drink thereof a good draught, mor<g ref="char:EOLhyphen"/>ning and evening.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of Sheeps dung half a hand<g ref="char:EOLhyphen"/>ful, of Gooſe-dung as much, ſteep them in a pint of white wine or Ale, one night, ſtrain it, and drink thereof morning and evening.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a good handful of red Nettle crops, boyl them in a pint of Ale or Beer, ſtrain it and drink a good draught morning and evening warm.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of Broom-flowers bruiſed, a handful of Saffron the weight of ſix pence, of the juyce of Celandine two or three ſpoonfuls, of Earth-worms waſhed clean, a ſmall handful; ſteep them in a pint and a half of white wine
+<pb n="56" facs="tcp:37202:32"/>
+one night, then boyl them gently, ſtrain it, and drink thereof firſt and laſt.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Let a live Tench be applyed both to the right ſide (where liver is) and to the ſoles of the feet.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take the yellow bark or rinde of the Barberie-tree and bruiſe it, then let it be boyled in white wine or Poſſet-drink, when it is neer boyled put in ſome Saffron, and boyl it gently a while, ſtrain it and drink thereof morning and evening.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>Against the Small Pox or Mea<g ref="char:EOLhyphen"/>ſels.</head>
+            <p>GIve a little Saffron powdered in in milk morning and evening.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Give ſome London Treacle to bring them out. It may be given in Dragon-water or Carduus-water.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of the herb Scabious half a handful, or a handful of Figs ſliced, ſix
+<pb n="57" facs="tcp:37202:32"/>
+in number, of Licoris bruiſed half an ounce, of Harts-horn as much; boyl them in a pint of Spring-water or Poſſet-drink to about half a pint, ſtrain it, and put thereto three or four penny-worth of Saffron in powder. Give four or five ſpoonfuls thereof morning an evening warm.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take of Lentils (the huskes taken off) or Tares four ounces, of Figgs in number ten, of Raiſons of the Sun ſtoned two ounces, of Fennel-ſeed bruiſed a quarter of an ounce; boyl them in three pints of water till the third part be conſumed; when it is neer boyled put in twenty grains of Saffron, and let it boyl gently, ſtrain it and give three or four ounces hereof to drink warm morning and evening.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>To preſerve the eyes.</head>
+            <p>Take of red Roſe-water four ſpoon<g ref="char:EOLhyphen"/>fuls, of womans milk two ſpoonfuls, of white Candy in fine powder half a quarter of an ounce; mingle them together and drop ſome of it into the eyes warm.</p>
+            <div type="treatment">
+               <pb n="58" facs="tcp:37202:33"/>
+               <head>Or,</head>
+               <p>Take red Roſe-water and put a lit<g ref="char:EOLhyphen"/>tle Saffron in powder therein, waſh the eyes therewith warm.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>To preſerve the Throat.</head>
+            <p>Let them hold often in their mouth white or broun Sugar-Candy, or the juyce of Licoris.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Give them Honey of Roſes or Sy<g ref="char:EOLhyphen"/>rup of Mulberies warm.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>To preſerve the Lungs.</head>
+            <p>Make them Barly-water with Figgs, Aniſſeed, Raiſons and Licoris. Let them drink often of it warm.</p>
+            <p>Let them that have the Pox be kept warm, but not too hot; give them broth and beer warm. Let their broth be made with Harts-horn, Sorrel and Mary-gold flowers. They muſt not eat any meat till the Fever be gone; let them avoid wine, ſtrong beer and hot Spices. When the Fever is paſt, they may eat meat of light digeſtion,
+<pb n="59" facs="tcp:37202:33"/>
+poched eggs, and Bread and Butter They may drink with a Toſt and a lit<g ref="char:EOLhyphen"/>tle Sugar, and after they have drank, let them eat the Toſt, for this will cleanſe their mouth and Throat.</p>
+            <p>If the Pox ſtrik in, give them Mi<g ref="char:EOLhyphen"/>thridate, Diaſcordium, or Bezarſtone, from two grains to five or ſix grains.</p>
+            <p>After eight or ten dayes you may anoynt the face with theſe following means.</p>
+            <p>Take fat Bacon, roaſt it, and let it drop in fair water, then take the drop<g ref="char:EOLhyphen"/>pings and waſh it often in red Roſe-water or Plantain-water; with this let the face be often anoynted.</p>
+            <p>Or;</p>
+            <p>Take of oyl of Roſes half an ounce, of Sperma ceti half a quarter of an ounce; mix them together by melting at the fire, ſtirring them till it be cold, then anoint with it.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Anoint the face with oyl of bitter Almonds and a little Sperma ceti mix<g ref="char:EOLhyphen"/>ed together.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take Elder-leaves one handful Ma<g ref="char:EOLhyphen"/>rigols
+<pb n="60" facs="tcp:37202:34"/>
+two handfuls, of French Mal<g ref="char:EOLhyphen"/>lowes or ordinary Mallowes one handful, Hoggs greaſe half a pound, bruiſe and boyl them till the herbs be dry, ſtrain it and anoint therewith.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a quarter of an ounce of Ce<g ref="char:EOLhyphen"/>ruſſe, or Chalk often waſhed in fine powder add to it two ounces of thin Cream, mix them together, and anoint therewith.</p>
+            </div>
+         </div>
+         <div type="ailment">
+            <head>To take away the ſpots in the face after they are well.</head>
+            <p>Take the juyce of Lemons and mix with it a little bay-Salt in powder, waſh the face gently with it, or dip clouts in the juyce of Lemons, and waſh the face therewith.</p>
+         </div>
+         <div type="ailment">
+            <head>Againſt the Dropſie.</head>
+            <p>TAke green Broom, and burn it in ſome clean place that you may ſave the aſhes of it: Take nine or ten ſpoonfuls of the ſame aſhes and boyl them in a pint of white wine, till the
+<pb n="61" facs="tcp:37202:34"/>
+ſtrength thereof be out, then ſtrain it make three draughts of the wine. Drink one faſting, another at three of the clock in the afternoon, and the other laſt at night.</p>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take a good handful of the herb called Bitter-ſweet, bruiſe it, and boyl it in a pint of white wine, ſtrain it, and drink thereof morning and evening.</p>
+            </div>
+            <div type="treatment">
+               <head>Or,</head>
+               <p>Take half a pound of Cow-dung, Aniſſeed and Cuminſeed in powder, of each two ounces, mix them toge<g ref="char:EOLhyphen"/>ther and lay it on warm to the ſwol<g ref="char:EOLhyphen"/>len belly or legs.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb n="62" facs="tcp:37202:35"/>
+            <head>An Appendix concer<g ref="char:EOLhyphen"/>ning Phlebotomie in the Small Pox.</head>
+            <p>Becauſe the vulgar do ſo much cry out of letting-blood in the Small Pox, yea count it ſuch a piacle or mortiferous errour I thought it neceſſary to ſa<g ref="char:EOLhyphen"/>tisfie them (if it may be,) that there no ſuch danger as they ſuppoſe.</p>
+            <p>
+               <note place="margin">Whether let<g ref="char:EOLhyphen"/>ting blood be ſafe in the ſmall Pox.</note>
+               <hi>Whether Phlebotomie, or letting blood, may ſafely be uſed in the Small Pox?</hi>
+            </p>
+            <p>
+               <note place="margin">Sol.</note>TO anſwer this queſtion, we muſt conſider the ſmall
+<pb n="63" facs="tcp:37202:35"/>
+Pox <hi>ante eruptionem,</hi> before any ſpots appear, and <hi>poſt eruptionem</hi> after the ſpots appear. In the be<g ref="char:EOLhyphen"/>ginning before any ſpots appear, eſpecially in a full body, on the ſecond day, Phlebotomie may ſafely be done. That this may not ſeem my own I ſhall cite my authority; and firſt I will begin with <hi>Duncanus Liddelius,</hi> who ſaith, <hi>Incipiente morbo,</hi>
+               <note place="margin">Liddelius de ſeb. l. <hi>3.</hi> cap. <hi>9.</hi> fol. <hi>273.</hi>
+               </note> 
+               <hi>ubi adeſt ſanguinis redundantia, ſi vires &amp; aetas permittant nil melius putatur, quàm à venae ſectione initium face<g ref="char:EOLhyphen"/>re;</hi> In the beginning of the ſmall Pox where blood doth much a<g ref="char:EOLhyphen"/>bound, if ſtrength and age per<g ref="char:EOLhyphen"/>mit, no remedy ſo ſafe as letting-blood. And again, <hi>Tutiſsimum eſt in variolis &amp; morbillis ſangui<g ref="char:EOLhyphen"/>nem de trahere intra quartum diem ſi ſit plenitudo magna aut febris ar<g ref="char:EOLhyphen"/>duus;</hi> It is moſt ſafe in the ſmall Pox and Meaſels to draw blood
+<pb n="64" facs="tcp:37202:36"/>
+before the fourth day, if there be any great fulneſs or burning Fe<g ref="char:EOLhyphen"/>ver. <hi>Hollerius</hi> ſaith thus, <hi>Primo aut ſecundo die ſanguis detrahendus eſt:</hi>
+               <note place="margin">Hollerius de morbis inter<g ref="char:EOLhyphen"/>nis fol. <hi>827.</hi>
+               </note> on the firſt or ſecond day blood is to be drawn away. And he goes farther, and gives a reaſon, <hi>Sic enim melius tranſpirat corpus. Putredinis cauſa intercipitur, leva<g ref="char:EOLhyphen"/>tur natura, &amp; ſi quid vitii eliquum eſt, celerius in ſuperficiem corporis repurgatur, &amp;c.</hi> For by letting blood reſpiration is much help<g ref="char:EOLhyphen"/>ed, and the cauſe of putrefaction is intercepted, nature is eaſed, and the corrupt humours are more ſpeedily ſent from the Center, to the Circumference; otherwiſe there is great danger, leaſt by too much putrifaction the Fever be increaſed, and Na<g ref="char:EOLhyphen"/>ture too much oppreſſed with a multitude of humours, that at laſt it bring a ſuffocation to the
+<pb n="65" facs="tcp:37202:36"/>
+Patient. So that we ſee Phlebo<g ref="char:EOLhyphen"/>tomie is ſo far from hindering the coming forth of the Pox, that it is a great help to their more ſpeedy comming forth.</p>
+            <p>
+               <hi>Fuchſius</hi> hath theſe words con<g ref="char:EOLhyphen"/>cerning letting-blood in the ſmal pox,<note place="margin">Fuchſius de med. mor. lib. <hi>5.</hi> cap. <hi>8.</hi> fol. <hi>581.</hi>
+               </note> 
+               <hi>Si adulti corripiuntur exanthe<g ref="char:EOLhyphen"/>matis, initio curationis, ſi corpus plenum fuerit, ſanguis mitendus, id<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> faciendum antequam appare<g ref="char:EOLhyphen"/>ant exanthemata:</hi> If adult or grown perſons be taken with the ſmall Pox, in the beginning, if they have full bodies, blood is to be taken away, but let it be done before the ſpots appear. Of this opinion are moſt of the Learned Phyſitians,<note place="margin">Mercurialis edict. <hi>1623.</hi> Faventinus, venetiis. <hi>1554.</hi> Pet. Paſcha<g ref="char:EOLhyphen"/>lis Ludgduni <hi>1631.</hi>
+               </note> 
+               <hi>Mercuriales de morb. puer. lib.</hi> 1. <hi>fol.</hi> 24. <hi>Farentin. em<g ref="char:EOLhyphen"/>piric. fol.</hi> 390. <hi>Pet. Paſcalis de feb. fol.</hi> 117. <hi>Pet. Paulus de cur. morb. lib.</hi> 2. <hi>c.</hi> 10. <hi>fol.</hi> 209. <hi>Pet. Bayrus tract. de Peſte, fol.</hi> 820. <hi>Heurnius de
+<pb n="66" facs="tcp:37202:37"/>
+feb. fol.</hi> 139.<note place="margin">Pet. Paulus Lugdunj. <hi>1587.</hi> Pet. Bayrus, Lugdun. <hi>1578.</hi>
+               </note> 
+               <hi>Rondeletius method. curand. fol.</hi> 626. <hi>Gordonius de feb. fol.</hi> 52. <hi>River. prax. med. fol.</hi> 157. <hi>Sennert. de feb. fol.</hi> 480.</p>
+            <p>I hope it doth now plainly ap<g ref="char:EOLhyphen"/>pear,<note place="margin">
+                  <hi>Heurnius Lugduni Ba<g ref="char:EOLhyphen"/>tavorum.</hi> M.IC.IIC.</note> that there is no ſuch danger (as the moſt conceive and ima<g ref="char:EOLhyphen"/>gine) to let blood in the ſmall Pox, all the circumſtances well conſidered.<note place="margin">Rondeletius edit. <hi>1628.</hi> Gordonius, Lugduni. <hi>1574.</hi>
+               </note> But to make it more plain, I ſhall bring two or three inſtances of children that (having the ſmall Pox) have been let blood.<note place="margin">Riverius, Goudae. <hi>1649.</hi>
+               </note> 
+               <hi>Amatus Lucitanus</hi> let a childe blood of five years old that had the ſmall Pox, and took away four ounces of blood,<note place="margin">Sonnertus, Pariſiis. <hi>1633.</hi>
+               </note> who ſoon recovered. <hi>Amat. Lucitan. Cent.</hi> 3. <hi>curat. decimâ ſextâ.</hi> And he let blood another childe of ſeven years old,<note place="margin">Amatus Lucitanius Curation mediciis. Centur. <hi>4.</hi>
+               </note> and took away ſix ounces of blood. <hi>Cent.</hi> 1. <hi>curat. decimâ.</hi> And <hi>Avenzoar</hi> let his Son blood at three years old,
+<pb n="67" facs="tcp:37202:37"/>
+who ſoon after recovered.<note place="margin">
+                  <hi>Baſiliae</hi> 1556.</note> 
+               <hi>Pet. Bayr. tract. de peſte fol.</hi> 821. Now if children be let blood in the ſmall Pox, much more may grown perſons be let blood be<g ref="char:EOLhyphen"/>fore any ſpots appear.</p>
+            <p>But haply it will be objected,<note place="margin">Object. of the vulgar.</note> that many that are let blood in the ſmall Pox dye, which haply might have lived,<note place="margin">Anſw.</note> had they not been let blood: to which I an<g ref="char:EOLhyphen"/>ſwer, they may dye after letting blood for theſe reaſons.</p>
+            <p n="1">1 Firſt becauſe they wanted <milestone type="tcpmilestone" unit="unspecified" n="1"/> good tendance, which is a main and principal help in this diſeaſe, for experience doth manifeſt that if they be kept too hot or too cold, or take cold Beer or Broth how dangerous it is.</p>
+            <p>Secondly, becauſe they want<g ref="char:EOLhyphen"/>ed <milestone type="tcpmilestone" unit="unspecified" n="2"/> good Cordials to expel out the Malignant humours.</p>
+            <p>Thirdly, becauſe their glaſs is <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <pb n="68" facs="tcp:37202:38"/>
+run, and the Almighty hath ſet their time beyond which they cannot paſs; for <hi>Statutum eſt om<g ref="char:EOLhyphen"/>nibus ſemel mori;</hi> it is appointed for all men once to dye; and what man liveth and ſhall not ſee death? <hi>Quod natura negat, reddere nemo poteſt, &amp; contra vim mortis non eſt medicamen in hortis.</hi> Therefore let not the vulgar judg raſhly, Phlebotomie to be the cauſe.</p>
+            <p>Some<note n="*" place="margin">Erumpen<g ref="char:EOLhyphen"/>tibus puſtulis fas eſt ſan<g ref="char:EOLhyphen"/>guinem de<g ref="char:EOLhyphen"/>trahere non ſemel dunta<g ref="char:EOLhyphen"/>x<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, ſed bis terre pro ra<g ref="char:EOLhyphen"/>tione &amp; ne<g ref="char:EOLhyphen"/>ſſitate indi<g ref="char:EOLhyphen"/>cationum. Pet. Paſchal. de fob. fol. <hi>117.</hi> Hiſtorie.</note> Phyſitians go yet far<g ref="char:EOLhyphen"/>ther, and give counſel to let blood though the ſpots appear, in full and plethorick bodies where the Fever is violent, and that not onely ounce, but to reite<g ref="char:EOLhyphen"/>rate Phlebotomie; which courſe I durſt nevet attempt nor venture upon; yet I once knew a young man about ſeventeen years old of a full body, after the Pox were come forth, that was let blood,
+<pb n="69" facs="tcp:37202:38"/>
+who ſoon after recovered but before he lay ſenſeleſs. But in ſuch caſes I wiſh practitio<g ref="char:EOLhyphen"/>ners to be very<note place="margin">Caeterum perpe<g ref="char:EOLhyphen"/>tuum non eſt abſtinere Phle<g ref="char:EOLhyphen"/>botomiâ, cum jam papula in ſuperficie cor<g ref="char:EOLhyphen"/>poris extiterunt. Etenim fit ali<g ref="char:EOLhyphen"/>quando prae co<g ref="char:EOLhyphen"/>pia vitii, ut &amp; plurimum reli<g ref="char:EOLhyphen"/>quum ſit in cor<g ref="char:EOLhyphen"/>pore, urgeat vehementer difficultas ſpi<g ref="char:EOLhyphen"/>randi gravis fit febris: quo tempore ſi nihil repugnat, vena ſecanda eſt, Hol<g ref="char:EOLhyphen"/>ler, de morb. intern. l. <hi>2.</hi> fol. <hi>828.</hi> Pet. Bay<g ref="char:EOLhyphen"/>rus de peſte f. <hi>820.</hi> Faventius empi<g ref="char:EOLhyphen"/>ric fol. <hi>390.</hi> Hercules Saxo<g ref="char:EOLhyphen"/>nia, Venetiis <hi>1620.</hi> fol <hi>10.</hi> Ioh. Baptiſt. Montanus Baſi<g ref="char:EOLhyphen"/>liae. <hi>8.</hi>
+               </note> cautious, of letting blood, for fear of hindering Nature in expel<g ref="char:EOLhyphen"/>ling the venomous humour, as alſo to prevent the calum<g ref="char:EOLhyphen"/>nie of thoſe that are too apt to cenſure the beſt actions, and the moſt painful labours of the learned, eſpecially if it happen that the Patient dye of the diſeaſe. I might here alſo anſwer an other queſtion concerning letting blood in Peſtilent Fevers when any ſpots appear, but thoſe that deſire ſatisfaction herein, let them conſult with theſe fol<g ref="char:EOLhyphen"/>lowing Authours, <hi>viZ. Her<g ref="char:EOLhyphen"/>cules Saxonia de feb. fol.</hi> 150. <hi>Montanus de feb. peſtil. cap.</hi>
+               <pb n="70" facs="tcp:37202:39"/>
+50. <hi>fol.</hi> 463, 464, 465, 466. <hi>Pet. Salius diverſ. de feb. pe<g ref="char:EOLhyphen"/>ſtilent. cap.</hi> 24.<note place="margin">Pet. Salius Bo<g ref="char:EOLhyphen"/>nonia. <hi>1584, 4.</hi> Maſſaria Lug<g ref="char:EOLhyphen"/>duni. <hi>1634.</hi> fol.</note> 
+               <hi>fol.</hi> 200. <hi>Maſ<g ref="char:EOLhyphen"/>ſaria lib.</hi> 2. <hi>de peſte fol.</hi> 530. 531.</p>
+         </div>
+         <div type="table">
+            <pb facs="tcp:37202:39"/>
+            <head>An Alphabetical Table of the diſeaſes in this ſmall Treatiſe.</head>
+            <div n="A" type="part">
+               <head>A</head>
+               <list>
+                  <item>
+                     <hi>AChes.</hi> p. 27,</item>
+                  <item>
+                     <hi>Agues</hi> p. 46.</item>
+               </list>
+            </div>
+            <div n="B" type="part">
+               <head>B</head>
+               <list>
+                  <item>BAck to ſtrengthen <hi>p. 35.</hi>
+                  </item>
+                  <item>Bees ſtinging thereof. <hi>p. 39.</hi>
+                  </item>
+                  <item>Biles or Fellons <hi>p. 17.</hi>
+                  </item>
+                  <item>Biting of venomous beaſts <hi>p. 37.</hi>
+                  </item>
+                  <item>Blackneſs of the face and eyes <hi>p. 26.</hi>
+                  </item>
+                  <item>Bleeding at the Noſe <hi>p. 29.</hi>
+                  </item>
+                  <item>Bleeding of wounds <hi>p. 31.</hi>
+                  </item>
+                  <item>Bruiſes or ſtrains <hi>p. 23.</hi>
+                  </item>
+                  <item>Burning and Scalding <hi>p. 1. &amp; p. 8.</hi>
+                  </item>
+                  <item>Burning with Gunpowder <hi>p. 7.</hi>
+                  </item>
+                  <item>Burning of the face and eyes <hi>p. 7.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="C" type="part">
+               <head>C</head>
+               <list>
+                  <item>
+                     <hi>CHilblains and Kibes</hi> p. 20.</item>
+                  <item>
+                     <hi>Collick and Stone</hi> p. 48. 49.</item>
+                  <item>
+                     <pb facs="tcp:37202:40"/>
+                     <hi>Cough</hi> p. 50.</item>
+               </list>
+            </div>
+            <div n="D" type="part">
+               <head>D</head>
+               <list>
+                  <item>
+                     <hi>DEafneſs</hi> p. 39.</item>
+                  <item>
+                     <hi>Dropſie</hi> p. 60.</item>
+               </list>
+            </div>
+            <div n="E" type="part">
+               <head>E</head>
+               <list>
+                  <item>EYes, black and blew <hi>p. 26.</hi>
+                  </item>
+                  <item>Eyes blood-ſhotten and red <hi>p. 44.</hi>
+                  </item>
+                  <item>Eyes dim <hi>p. 41.</hi>
+                  </item>
+                  <item>Eyes, ſpots therein <hi>p. 43.</hi>
+                  </item>
+                  <item>Eyes watering and itching <hi>p. 42.</hi>
+                  </item>
+                  <item>Eyes burnt with Gunpowder <hi>p. 7.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="F" type="part">
+               <head>F</head>
+               <list>
+                  <item>FEllons, ſee Biles <hi>p. 17.</hi>
+                  </item>
+                  <item>Flux or looſeneſs <hi>p. 51.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="G" type="part">
+               <head>G</head>
+               <list>
+                  <item>
+                     <hi>GOut</hi> p. 52.</item>
+                  <item>
+                     <hi>Gravel or Stone</hi> p. 48.</item>
+               </list>
+            </div>
+            <div n="H" type="part">
+               <head>H</head>
+               <list>
+                  <item>HEmorrhoides, ſee Piles <hi>p. 32.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="I" type="part">
+               <head>I</head>
+               <list>
+                  <item>
+                     <hi>IAndiſe</hi> p. 55.</item>
+                  <item>
+                     <hi>Itch and Scab</hi> p. 8. &amp; p. 21.</item>
+                  <item>
+                     <hi>Inflamations</hi> p. 8.</item>
+               </list>
+            </div>
+            <div n="K" type="part">
+               <head>K</head>
+               <list>
+                  <item>
+                     <hi>KIbes and Chilblains</hi> p. 8. &amp; p. 20.</item>
+               </list>
+            </div>
+            <div n="L" type="part">
+               <head>L</head>
+               <list>
+                  <item>LOoſeneſs or Flux <hi>p. 51.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="M" type="part">
+               <pb facs="tcp:37202:40"/>
+               <head>M</head>
+               <list>
+                  <item>MAd Dog, biting thereof <hi>p. 37.</hi>
+                  </item>
+                  <item>Meaſels or ſmall Pox <hi>p. 56.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="N" type="part">
+               <head>N</head>
+               <list>
+                  <item>Nipples of womens breſts being ſore <hi>p. 8.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="P" type="part">
+               <head>P</head>
+               <list>
+                  <item>
+                     <hi>PIles</hi> p. 8. &amp; p. 32.</item>
+                  <item>
+                     <hi>Piles bleeding</hi> p. 34.</item>
+                  <item>
+                     <hi>Pox ſmall, or Meaſels</hi> p. 56.</item>
+               </list>
+            </div>
+            <div n="R" type="part">
+               <head>R</head>
+               <list>
+                  <item>RIngworm, ſee Tetter <hi>p. 16.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="S" type="part">
+               <head>S</head>
+               <list>
+                  <item>SCab, Itch <hi>p. 21.</hi>
+                  </item>
+                  <item>Shingles <hi>p. 14.</hi>
+                  </item>
+                  <item>Splinters or Thorns to draw out <hi>p. 28.</hi>
+                  </item>
+                  <item>Strains <hi>p. 23.</hi>
+                  </item>
+                  <item>Scalding <hi>p. 8.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="T" type="part">
+               <head>T</head>
+               <list>
+                  <item>Tetter <hi>p. 16.</hi>
+                  </item>
+                  <item>Thorns and ſplinters to draw out <hi>p. 28.</hi>
+                  </item>
+                  <item>Tooth-ach <hi>p. 44.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="W" type="part">
+               <head>W</head>
+               <list>
+                  <item>
+                     <hi>VVOunds green</hi> p. 8. p. &amp; 9.</item>
+                  <item>
+                     <hi>VVounds bleeding</hi> p. 31.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
